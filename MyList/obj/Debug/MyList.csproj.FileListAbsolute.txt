@@ -1,0 +1,8 @@
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\bin\Debug\MyList.exe.config
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\bin\Debug\MyList.exe
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\bin\Debug\MyList.pdb
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\obj\Debug\MyList.csproj.AssemblyReference.cache
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\obj\Debug\MyList.exe
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\obj\Debug\MyList.pdb
+C:\Users\Polina\Documents\PROGRAMMING\CarX\XLab\some scripts\MyList\obj\Debug\MyList.exe.config
